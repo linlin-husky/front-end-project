@@ -1,0 +1,16 @@
+.email__label {
+    font-size: 1.2rem;
+}
+
+.email-error__symbol {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.email-error__symbol--valid {
+    color: green;
+}
+
+.email-error__symbol--invalid {
+    color: red;
+}
